@@ -1,0 +1,124 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "88118612d9acf7ccea25fcdb",
+  "owner": "lnzlwsdd",
+  "repo": "page-ba0ab1239f1589760ac7bcd6",
+  "title": "Dotunnel",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "ba0ab1239f1589760ac7bcd6",
+      "a": "Dotunnel",
+      "b": "",
+      "entity": "Dotunnel",
+      "brand": "Dotunnel",
+      "separator": "",
+      "path": "index.html",
+      "hash": "1d1e1f764252425d44b6eb86c1690289fc45b848854c263b202e940e768317cc",
+      "content": {
+        "keyword1": "Dotunnel",
+        "keyword2": "",
+        "primary_entity": "Dotunnel",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "Dotunnel 提供机场订阅、VPN 梯子网络加速与多端客户端下载，帮助你在官网选择套餐、导入节点并稳定访问跨境办公、流媒体与资料站点。",
+          "AI_DESCRIPTION": "Dotunnel 提供机场订阅、VPN 梯子网络加速与多端客户端下载，帮助你在官网选择套餐、导入节点并稳定访问跨境办公、流媒体与资料站点。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "<style>*{box-sizing:border-box}html,body{margin:0;padding:0;max-width:100%}body{font-family:system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial,sans-serif;background:#eeeaf4;color:#231833;font-size:16px;line-height:1.65;overflow-x:hidden}a{color:#5b2f9a;text-decoration:underline}header,main,footer{width:100%;max-width:960px;margin:0 auto;padding:16px}header{padding-top:20px;padding-bottom:8px}nav{display:flex;flex-wrap:wrap;gap:8px 14px;margin-top:12px;font-size:14px}nav a{color:#43246f;text-decoration:none;background:#fff;border:1px solid #d9d0e8;border-radius:8px;padding:6px 10px}h1{font-size:1.85rem;line-height:1.25;margin:8px 0 10px;color:#3a2163}h2{font-size:1.28rem;margin:28px 0 12px;color:#3a2163;padding-bottom:6px;border-bottom:2px solid #cbbce3}h3{font-size:1.05rem;margin:16px 0 8px;color:#4a2d7a}p,li{color:#2d243c}ul{padding-left:1.2em;margin:8px 0 16px}.lead{font-size:1.05rem;background:#fff;border:1px solid #ddd4ea;border-radius:12px;padding:14px 16px}.grid{display:grid;grid-template-columns:1fr;gap:12px}.card{background:#fff;border:1px solid #dcd3ea;border-radius:12px;padding:14px 16px}.card.featured{border:2px solid #6b3fb3;background:#f7f2fd;box-shadow:0 0 0 1px #e6d9f7}.badge{display:inline-block;background:#6b3fb3;color:#fff;font-size:12px;border-radius:999px;padding:2px 8px;margin-left:6px}.price{font-size:1.35rem;font-weight:700;color:#5b2f9a;margin:6px 0}.muted{color:#5a5168;font-size:14px}.steps{counter-reset:step}.steps li{margin:8px 0}details{background:#fff;border:1px solid #dcd3ea;border-radius:10px;padding:10px 14px;margin:8px 0}summary{font-weight:650;color:#3a2163}#ads{background:#f4eefc;border:1px dashed #b9a4d8;border-radius:12px;padding:12px 14px;margin-top:12px}footer{padding-bottom:28px;font-size:14px}.friends a,.map a{display:inline-block;margin:0 10px 8px 0}@media (min-width:740px){.grid-3{grid-template-columns:repeat(3,1fr)}.grid-2{grid-template-columns:repeat(2,1fr)}h1{font-size:2.1rem}}</style><header><p class=\"muted\">Dotunnel 官方网站 · 机场订阅与客户端下载</p><nav><a href=\"#intro\">品牌简介</a><a href=\"#plans\">订阅套餐</a><a href=\"#clients\">客户端下载</a><a href=\"#scenes\">使用场景</a><a href=\"#guide\">操作说明</a><a href=\"#nodes\">线路说明</a><a href=\"#faq\">常见问题</a><a href=\"#map\">页面地图</a></nav></header><main><h1>Dotunnel</h1><p class=\"lead\">Dotunnel 是面向跨境办公、学术检索与流媒体访问的网络加速服务。本站为官网入口，集中说明机场订阅、VPN 梯子用法、加速器套餐以及各端客户端下载步骤，便于你按设备完成配置并选择合适节点。</p><section id=\"intro\"><h2>品牌简介与官方身份</h2><p>Dotunnel 官方网站发布套餐、客户端渠道与使用说明。服务以订阅制机场为核心：开通后获得可在通用客户端中导入的订阅地址，按套餐额度使用极速流量。旗舰与团队线路包含 IPLC 专线优化，适合会议、资料站点与对延迟更敏感的加速需求。</p><p>请通过本页套餐与客户端章节识别官方下载路径，避免来路不明的安装包。Dotunnel 不在页面内嵌第三方程序，客户端说明以系统原生安装与手动导入订阅为主，保证流程可核对、可回溯。</p></section><section id=\"plans\"><h2>订阅套餐</h2><p>三档套餐按流量、同时在线设备与线路类型区分。年付可锁定全年单价。以下为官网公示方案，便于对照选择。</p><div class=\"grid grid-3\"><article class=\"card\"><h3>基础版</h3><p class=\"price\">¥15/月</p><p class=\"muted\">按年付仅需 ¥150/年</p><ul><li>每月 100GB 极速流量</li><li>支持 3 台设备同时在线</li><li>解锁基础流媒体</li><li>普通线路节点池</li></ul><p><a href=\"#guide\">查看开通步骤</a></p></article><article class=\"card featured\"><h3>旗舰版<span class=\"badge\">推荐</span></h3><p class=\"price\">¥35/月</p><p class=\"muted\">按年付仅需 ¥350/年</p><ul><li>每月 300GB 极速流量</li><li>支持 5 台设备同时在线</li><li>全节点原生流媒体解锁</li><li>IPLC 专线游戏加速优化</li><li>7x24 优先工单支持</li></ul><p><a href=\"#clients\">去选择客户端</a></p></article><article class=\"card\"><h3>团队版</h3><p class=\"price\">¥85/月</p><p class=\"muted\">按年付仅需 ¥850/年</p><ul><li>每月 1000GB 极速流量</li><li>支持 20 台设备同时在线</li><li>VIP 专属高带宽节点</li><li>支持企业定制路由</li><li>专属客户经理服务</li></ul><p><a href=\"#scenes\">查看团队场景</a></p></article></div></section><section id=\"clients\"><h2>客户端下载</h2><p>客户端选择是完成 Dotunnel 加速的关键一步。请先确认系统，再下载对应客户端，最后回到订阅说明完成导入。下列入口均为页面锚点指引，安装包请以官网当前渠道为准，勿使用来源不明的镜像。</p><div class=\"grid grid-2\"><article class=\"card\" id=\"windows\"><h3>Windows 客户端</h3><p>适合桌面办公与多标签浏览。安装后新建订阅资料，粘贴 Dotunnel 订阅地址并更新节点列表，选择延迟较低的香港、新加坡或美西节点连接。</p><p><a href=\"#guide\">Windows 导入说明</a></p></article><article class=\"card\" id=\"macos\"><h3>macOS 客户端</h3><p>用于会议软件与设计工具并行场景。开启系统代理或 TUN 模式前，先在客户端内完成订阅更新，再按应用分流，避免内网打印机与局域网文件共享被误代理。</p><p><a href=\"#guide\">macOS 导入说明</a></p></article><article class=\"card\" id=\"android\"><h3>Android 客户端</h3><p>手机侧建议仅对浏览器与指定应用开启代理。导入订阅后可开启分应用规则，降低后台应用耗流量。建议在 WLAN 环境下完成首次更新。</p><p><a href=\"#guide\">Android 导入说明</a></p></article><article class=\"card\" id=\"ios\"><h3>iOS 客户端</h3><p>请通过系统允许的应用商店获取兼容客户端，再扫描或粘贴订阅。首次连接需在系统设置中允许 VPN 配置。不提供任何绕过商店规则的安装方式。</p><p><a href=\"#guide\">iOS 导入说明</a></p></article><article class=\"card\" id=\"linux\"><h3>Linux 客户端</h3><p>命令行或图形客户端均可。导入订阅后建议固定使用加密传输与本地端口，把浏览器代理指向本地混合端口，便于排错。</p><p><a href=\"#guide\">Linux 导入说明</a></p></article><article class=\"card\" id=\"router\"><h3>路由器 / 网关</h3><p>团队版可将订阅用于兼容 OpenWrt 的网关，统一覆盖多台终端。请限制同时在线设备数与高峰带宽，避免单条线路被占满。</p><p><a href=\"#plans\">对照团队版额度</a></p></article></div></section><section id=\"scenes\"><h2>使用场景</h2><h3>跨境会议与远程协作</h3><p>旗舰版 IPLC 更适合视频会议、文档协同与持续在线的远程桌面。建议会议软件走专线节点，下载类任务走普通高带宽节点，减少互相抢占。</p><h3>资料站点与学术检索</h3><p>基础版即可覆盖日常网页与文献库访问。若需同时开多台电脑与手机，优先计算设备数而不是只看流量。</p><h3>流媒体观看</h3><p>基础版提供基础流媒体解锁；需要全节点原生解锁时选择旗舰版或团队版，并在客户端中指定对应地区节点。</p><h3>轻度游戏加速</h3><p>旗舰版标注 IPLC 专线游戏加速优化，适合对延迟敏感的对战与登录。仍请遵守游戏发行地区规则，本站只说明网络路径选择。</p><h3>小团队共用出口</h3><p>团队版支持 20 台设备、VIP 高带宽节点与定制路由，可由客户经理协助划分办公网与访客网策略。</p></section><section id=\"guide\"><h2>操作说明</h2><h3>开通订阅</h3><ol class=\"steps\"><li>在套餐区确认流量、设备数与是否需要 IPLC 或定制路由。</li><li>按官网订单流程完成开通，进入用户中心复制订阅地址。</li><li>妥善保存订阅，不在公共频道传播，以免被滥用导致流量耗尽或封禁。</li></ol><h3>安装并导入客户端</h3><ol class=\"steps\"><li>根据系统打开 <a href=\"#clients\">客户端下载</a> 对应卡片，安装官方或兼容客户端。</li><li>在客户端选择“订阅 / 配置 URL”，粘贴 Dotunnel 订阅地址。</li><li>更新节点，检查是否出现香港、东京、新加坡、洛杉矶等列表。</li><li>开启系统代理或 VPN 配置，用浏览器访问需要加速的站点验证。</li></ol><h3>日常连接建议</h3><p>优先选择延迟低且丢包少的节点；观看流媒体时改用标注解锁的节点；下载大文件时避开会议时段。流量以用户中心统计为准，接近额度时应减少后台更新。</p></section><section id=\"nodes\"><h2>线路与性能说明</h2><p>Dotunnel 普通线路节点池覆盖常用亚太与北美入口，适合网页与常规加速。旗舰版在此基础上提供 IPLC 专线，缩短握手时间并改善高峰期稳定性。团队版另有 VIP 高带宽节点，可按企业网段做分流。</p><p>实际速度受本地宽带、时段与目标站点限制。建议在客户端查看延迟数字，连续失败时切换邻近区域而不是反复重连同一节点。官方身份核验以本站套餐名称、客户端说明与用户中心订阅为准。</p></section><section id=\"faq\"><h2>常见问题</h2><details><summary>Dotunnel 是什么？和官网下载有何关系？</summary><p>Dotunnel 是提供机场订阅与网络加速的服务品牌。官网用于查看套餐、获取正版订阅和对照客户端下载说明。完成开通后，在兼容客户端中导入订阅即可选择节点加速访问。</p></details><details><summary>如何下载客户端并导入机场订阅？</summary><p>先在客户端章节选择 Windows、macOS、Android、iOS、Linux 或路由器方案并完成安装，再将用户中心的订阅地址粘贴到客户端订阅栏，更新节点后连接。各系统入口均使用页面锚点，避免跳转到不明域名。</p></details><details><summary>基础版、旗舰版和团队版怎么选？</summary><p>个人轻度访问选基础版（100GB / 3 设备）。需要原生流媒体、IPLC 游戏加速和优先工单选旗舰版（300GB / 5 设备）。多成员、多终端或需要定制路由选团队版（1000GB / 20 设备）。</p></details><details><summary>支持哪些设备同时在线？流量何时重置？</summary><p>同时在线数按套餐分别为 3、5、20 台。每月极速流量按自然月或订购周期在用户中心重置，以开通时展示的周期为准。超额后可能降速或暂停加速，需升级套餐或等待下一周期。</p></details><details><summary>连接失败或速度不稳定怎么办？</summary><p>依次检查：本地网络是否可用、客户端是否已更新订阅、系统 VPN 权限是否开启、节点是否被手动固定到过期入口。可改换同区域备用节点，或在旗舰/团队线路中改走 IPLC。持续失败请通过优先工单或客户经理反馈节点名称与时间。</p></details><details><summary>能否用于流媒体解锁和游戏加速？</summary><p>基础版覆盖基础流媒体；全节点原生解锁与 IPLC 游戏加速优化属于旗舰版说明范围，团队版在高带宽节点上同样可用于集中出口。请按目标应用选择对应地区节点，并遵守平台自身访问条款。</p></details><details><summary>如何确认自己走的是 Dotunnel 官方渠道？</summary><p>认准品牌名 Dotunnel、本页套餐价格与功能列表，以及用户中心生成的订阅。不要安装要求关闭安全软件或索要额外权限的来路不明程序。本页下载说明只指向页面内客户端章节。</p></details></section><section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main><footer><section id=\"ads\"><h2>合作广告位</h2><p>品牌合作展示：跨境协作套件、企业云盘与安全邮箱可与 Dotunnel 团队版出口策略配合使用。广告为静态文字位，不含外部脚本或追踪像素。</p></section><section id=\"map\"><h2>页面地图</h2><p class=\"map\"><a href=\"#intro\">简介</a><a href=\"#plans\">套餐</a><a href=\"#clients\">客户端</a><a href=\"#windows\">Windows</a><a href=\"#macos\">macOS</a><a href=\"#android\">Android</a><a href=\"#ios\">iOS</a><a href=\"#linux\">Linux</a><a href=\"#router\">路由器</a><a href=\"#scenes\">场景</a><a href=\"#guide\">操作说明</a><a href=\"#nodes\">线路</a><a href=\"#faq\">FAQ</a></p><p>站点地图索引：<a href=\"#\">sitemap.xml</a></p></section><section><h2>友情链接</h2><p class=\"friends\"><a href=\"#\">跨境协作手册</a><a href=\"#\">节点延迟对照</a><a href=\"#\">系统代理设置笔记</a><a href=\"#\">企业路由示例</a></p></section><p class=\"muted\">© Dotunnel 官方网站 · 机场订阅与 VPN 客户端下载说明。内容供选型与配置参考，请合法使用网络服务。</p></footer>",
+          "hash": "82a29449c8fba709eb196cfcca8010ab4e02fd670c4c5f48e8ce09fd841549c0",
+          "seo": {
+            "title": "Dotunnel 官网下载 | VPN 梯子网络加速与机场客户端",
+            "keywords": "Dotunnel,Dotunnel官网,Dotunnel下载,Dotunnel机场,Dotunnel VPN,梯子,加速器,客户端下载,网络加速,机场订阅",
+            "description": "Dotunnel 提供机场订阅、VPN 梯子网络加速与多端客户端下载，帮助你在官网选择套餐、导入节点并稳定访问跨境办公、流媒体与资料站点。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "batuwu.cn",
+    "host": "p-42c0670b8c.batuwu.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [
+    {
+      "host": "batuwu.cn",
+      "url": "https://batuwu.cn/",
+      "label": "Miru",
+      "apex": "batuwu.cn",
+      "kind": null,
+      "identity": "qtygwkgvm/page-0ac1818743bfc8a13c2580f5"
+    },
+    {
+      "host": "5vk0xg.cn",
+      "url": "https://5vk0xg.cn/",
+      "label": "Dotunnel",
+      "apex": "5vk0xg.cn",
+      "kind": null,
+      "identity": "vwd3ggpu/page-962730b433eee15b8e48e5af"
+    },
+    {
+      "host": "8nplqh.cn",
+      "url": "https://8nplqh.cn/",
+      "label": "Dotunnel",
+      "apex": "8nplqh.cn",
+      "kind": null,
+      "identity": "ktfyum/page-be115a879926ef7294a5c692"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "41cc38d03f202e8a9782192a35e732a58c037563abc922bca36c9356a0a651aa",
+    "sitemap.xml": "646b73dac47b66c5198164ef3b3e8eff83d0ebf2b1a421ed5e18d30d5e8b1fb7",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "a765ef281fa4ad02fa8545721ed3bc086cccd97c5ec742b272f168f369f8ff6a",
+    "robots.txt": "4b4271c4cee33c133c994fceb291a6577995dd41599df58db1d2a0b351f11204",
+    "eb9b881c1710bfe15dd4318386a8a9ac.txt": "4bc4fc6ce85ba9d0f6f1d9168ce1fd3da7e792ad27dcd44fd354283aa8fa13d0"
+  },
+  "revision": "a599db645b7310ef6b5bccbf2d0638f39680bd788980a1d728f3f0a23203fb30"
+}
